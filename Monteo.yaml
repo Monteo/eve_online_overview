@@ -1696,8 +1696,7 @@ presets:
     - - filteredStates
       - []
     - - groups
-      - - 6
-        - 12
+      - - 12
         - 14
         - 186
         - 335

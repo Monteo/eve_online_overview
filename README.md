@@ -18,12 +18,16 @@ Mod based on the version **4.37**
 	4. del = in name tab
 
 
+#### Loot:
+	1. add Scatter Container - 1207
+	2. del Sun - 6
+
 #### Travel:
 	1. add Warp Gate - 366
 	2. add Wormhole - 988
 
-
 #### Mining:
 	1. add Asteroid Belt - 6
+
 
 
