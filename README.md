@@ -21,6 +21,7 @@ Mod based on the version **4.37**
 #### Loot:
 	1. add Scatter Container - 1207
 	2. del Sun - 6
+	3. del Biomass - 14
 
 #### Travel:
 	1. add Warp Gate - 366
