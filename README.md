@@ -22,10 +22,14 @@ Mod based on the version **4.37**
 	1. add Scatter Container - 1207
 	2. del Sun - 6
 	3. del Biomass - 14
+	4. add Spawn Container - 306
+	5. add Mission Container - 952
+	6. add Event Container - 1731
 
 #### Travel:
 	1. add Warp Gate - 366
 	2. add Wormhole - 988
+	3. add Sun - 6
 
 #### Mining:
 	1. add Asteroid Belt - 6
