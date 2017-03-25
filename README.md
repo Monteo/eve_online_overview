@@ -8,6 +8,8 @@ Mod based on the version **4.37**
 - **Monteo** - main settings
 - **Monteo Travel** - Replaced ***B-Friends*** to ***B-Travel***
 
+![Overview](Images/Overview.png "Overview")
+
 ## Reminder of changes:
 
 #### Global settings:
@@ -33,6 +35,10 @@ Mod based on the version **4.37**
 
 #### Mining:
 	1. add Asteroid Belt - 6
+
+##  
+### Background indication
+ ![Background indication](Images/fon.png "Background indication of player")
 
 
 
