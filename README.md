@@ -19,6 +19,9 @@ Mod based on the version **4.37**
 	3. background indication of the ships is recoloured
 	4. del = in name tab
 
+#### Loot:
+	1. del Citadel
+	2. del Engineering Complex
 
 #### Loot:
 	1. add Scatter Container - 1207
