@@ -2539,6 +2539,8 @@ stateColorsNameList:
   - red
 - - flag_13
   - red
+- - flag_48
+  - yellow
 tabSetup:
 - - 0
   - - - bracket

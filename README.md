@@ -18,6 +18,7 @@ Mod based on the version **4.37**
 	2. Changed order of columns Velocity and Alliance
 	3. background indication of the ships is recoloured
 	4. del = in name tab
+	5. neutral yellow icon
 
 #### Loot:
 	1. del Citadel
