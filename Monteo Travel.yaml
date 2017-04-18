@@ -1654,6 +1654,7 @@ presets:
         - 324
         - 335
         - 358
+        - 361
         - 380
         - 381
         - 419
@@ -2539,6 +2540,8 @@ stateColorsNameList:
   - red
 - - flag_13
   - red
+- - flag_48
+  - yellow
 tabSetup:
 - - 0
   - - - bracket

@@ -20,7 +20,7 @@ Mod based on the version **4.37**
 	4. del = in name tab
 	5. neutral yellow icon
 
-#### Loot:
+#### PvP:
 	1. del Citadel
 	2. del Engineering Complex
 
@@ -39,6 +39,10 @@ Mod based on the version **4.37**
 
 #### Mining:
 	1. add Asteroid Belt - 6
+
+#### B-DScanShipsAndProbes:
+	1. add Mobile Warp Disruptor - 361
+
 
 ##  
 ### Background indication
