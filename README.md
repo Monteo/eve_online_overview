@@ -23,6 +23,11 @@ Mod based on the version **4.37**
 #### PvP:
 	1. del Citadel
 	2. del Engineering Complex
+	3. del Scanner Probe - 479 
+	4. add Interdiction Probe - 548
+
+#### PvE:
+	1. del 479 Scanner Probe
 
 #### Loot:
 	1. add Scatter Container - 1207
@@ -39,6 +44,8 @@ Mod based on the version **4.37**
 
 #### Mining:
 	1. add Asteroid Belt - 6
+	2. del Scanner Probe - 479 
+	3. del Interdiction Probe - 548
 
 #### B-DScanShipsAndProbes:
 	1. add Mobile Warp Disruptor - 361
