@@ -49,6 +49,7 @@ Mod based on the version **4.37**
 
 #### B-DScanShipsAndProbes:
 	1. add Mobile Warp Disruptor - 361
+	2. add Interdiction Probe - 548
 
 
 ##  
