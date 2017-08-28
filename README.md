@@ -25,6 +25,7 @@ Mod based on the version **4.37**
 	2. del Engineering Complex
 	3. del Scanner Probe - 479 
 	4. add Interdiction Probe - 548
+	5. add Scatter Container - 1207
 
 #### PvE:
 	1. del 479 Scanner Probe
