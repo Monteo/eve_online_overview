@@ -41,10 +41,10 @@ backgroundStates:
 columnOrder:
 - ICON
 - DISTANCE
-- NAME
 - TYPE
-- TAG
 - VELOCITY
+- NAME
+- TAG
 - CORPORATION
 - ALLIANCE
 - FACTION
@@ -187,6 +187,7 @@ presets:
         - 1527
         - 1534
         - 1538
+        - 1972
 - - B-StructureWar
   - - - alwaysShownStates
       - []
@@ -211,6 +212,7 @@ presets:
         - 30
         - 31
         - 237
+        - 307
         - 310
         - 311
         - 324
@@ -310,6 +312,11 @@ presets:
         - 1534
         - 1538
         - 1657
+        - 1876
+        - 1924
+        - 1972
+        - 1978
+        - 1998
 - - B-Mining
   - - - alwaysShownStates
       - []
@@ -350,8 +357,6 @@ presets:
         - 299
         - 306
         - 310
-        - 319
-        - 323
         - 324
         - 335
         - 337
@@ -516,7 +521,6 @@ presets:
         - 759
         - 760
         - 761
-        - 784
         - 789
         - 790
         - 791
@@ -647,6 +651,7 @@ presets:
         - 1316
         - 1402
         - 1404
+        - 1406
         - 1411
         - 1412
         - 1413
@@ -681,6 +686,78 @@ presets:
         - 1690
         - 1691
         - 1692
+        - 1720
+        - 1721
+        - 1722
+        - 1724
+        - 1725
+        - 1726
+        - 1727
+        - 1728
+        - 1729
+        - 1731
+        - 1734
+        - 1735
+        - 1736
+        - 1737
+        - 1759
+        - 1761
+        - 1762
+        - 1764
+        - 1765
+        - 1766
+        - 1767
+        - 1768
+        - 1788
+        - 1789
+        - 1790
+        - 1791
+        - 1792
+        - 1793
+        - 1794
+        - 1795
+        - 1796
+        - 1797
+        - 1798
+        - 1799
+        - 1800
+        - 1803
+        - 1804
+        - 1805
+        - 1806
+        - 1807
+        - 1813
+        - 1814
+        - 1872
+        - 1876
+        - 1878
+        - 1879
+        - 1880
+        - 1884
+        - 1895
+        - 1896
+        - 1904
+        - 1905
+        - 1906
+        - 1907
+        - 1908
+        - 1909
+        - 1910
+        - 1911
+        - 1920
+        - 1921
+        - 1922
+        - 1923
+        - 1924
+        - 1925
+        - 1926
+        - 1927
+        - 1928
+        - 1929
+        - 1956
+        - 1972
+        - 1982
+        - 1997
 - - B-PI
   - - - alwaysShownStates
       - []
@@ -707,7 +784,6 @@ presets:
         - 29
         - 30
         - 31
-        - 90
         - 97
         - 99
         - 180
@@ -722,8 +798,6 @@ presets:
         - 299
         - 306
         - 310
-        - 319
-        - 323
         - 324
         - 335
         - 337
@@ -760,7 +834,6 @@ presets:
         - 543
         - 545
         - 547
-        - 548
         - 550
         - 551
         - 552
@@ -873,7 +946,6 @@ presets:
         - 759
         - 760
         - 761
-        - 784
         - 789
         - 790
         - 791
@@ -930,8 +1002,6 @@ presets:
         - 851
         - 852
         - 861
-        - 863
-        - 864
         - 865
         - 866
         - 867
@@ -970,6 +1040,7 @@ presets:
         - 1025
         - 1081
         - 1082
+        - 1106
         - 1149
         - 1166
         - 1167
@@ -1033,6 +1104,67 @@ presets:
         - 1690
         - 1691
         - 1692
+        - 1720
+        - 1721
+        - 1722
+        - 1724
+        - 1725
+        - 1726
+        - 1727
+        - 1728
+        - 1729
+        - 1731
+        - 1734
+        - 1735
+        - 1736
+        - 1737
+        - 1759
+        - 1761
+        - 1762
+        - 1764
+        - 1765
+        - 1766
+        - 1767
+        - 1768
+        - 1788
+        - 1789
+        - 1790
+        - 1791
+        - 1792
+        - 1793
+        - 1794
+        - 1795
+        - 1796
+        - 1797
+        - 1798
+        - 1799
+        - 1800
+        - 1803
+        - 1804
+        - 1805
+        - 1806
+        - 1807
+        - 1813
+        - 1814
+        - 1872
+        - 1878
+        - 1879
+        - 1880
+        - 1895
+        - 1896
+        - 1904
+        - 1905
+        - 1906
+        - 1907
+        - 1908
+        - 1909
+        - 1910
+        - 1925
+        - 1926
+        - 1927
+        - 1928
+        - 1929
+        - 1972
 - - B-BracketLF
   - - - alwaysShownStates
       - - 13
@@ -1054,6 +1186,7 @@ presets:
         - 27
         - 28
         - 30
+        - 237
         - 324
         - 335
         - 358
@@ -1093,6 +1226,7 @@ presets:
         - 1527
         - 1534
         - 1538
+        - 1972
 - - B-Friendly
   - - - alwaysShownStates
       - - 11
@@ -1155,6 +1289,7 @@ presets:
         - 1527
         - 1534
         - 1538
+        - 1972
 - - B-WarpOut
   - - - alwaysShownStates
       - []
@@ -1167,6 +1302,7 @@ presets:
         - 9
         - 10
         - 15
+        - 186
         - 366
         - 1003
         - 1005
@@ -1176,7 +1312,10 @@ presets:
         - 1082
         - 1106
         - 1404
+        - 1406
         - 1657
+        - 1876
+        - 1924
 - - B-PvE
   - - - alwaysShownStates
       - []
@@ -1207,6 +1346,7 @@ presets:
         - 299
         - 306
         - 310
+        - 319
         - 335
         - 336
         - 337
@@ -1532,6 +1672,29 @@ presets:
         - 1807
         - 1813
         - 1814
+        - 1872
+        - 1878
+        - 1879
+        - 1880
+        - 1895
+        - 1896
+        - 1904
+        - 1905
+        - 1906
+        - 1907
+        - 1908
+        - 1909
+        - 1910
+        - 1925
+        - 1926
+        - 1927
+        - 1928
+        - 1929
+        - 1956
+        - 1981
+        - 1982
+        - 1991
+        - 1997
 - - B-DronesOnly
   - - - alwaysShownStates
       - - 13
@@ -1624,6 +1787,7 @@ presets:
         - 1527
         - 1534
         - 1538
+        - 1972
 - - B-DScanShipsAndProbes
   - - - alwaysShownStates
       - - 13
@@ -1689,6 +1853,7 @@ presets:
         - 1527
         - 1534
         - 1538
+        - 1972
 - - B-Loot
   - - - alwaysShownStates
       - []
@@ -1707,9 +1872,72 @@ presets:
         - 1149
         - 1207
         - 1246
+        - 1250
         - 1274
         - 1297
         - 1731
+- - B-BracketLargeFleet
+  - - - alwaysShownStates
+      - - 13
+        - 44
+        - 52
+    - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 36
+        - 37
+        - 45
+        - 49
+    - - groups
+      - - 25
+        - 26
+        - 27
+        - 28
+        - 30
+        - 237
+        - 324
+        - 335
+        - 358
+        - 380
+        - 381
+        - 419
+        - 420
+        - 463
+        - 485
+        - 513
+        - 540
+        - 541
+        - 543
+        - 547
+        - 659
+        - 830
+        - 831
+        - 832
+        - 833
+        - 834
+        - 883
+        - 893
+        - 894
+        - 898
+        - 900
+        - 902
+        - 906
+        - 941
+        - 963
+        - 1004
+        - 1022
+        - 1149
+        - 1201
+        - 1202
+        - 1283
+        - 1305
+        - 1527
+        - 1534
+        - 1538
+        - 1972
 - - B-PvP
   - - - alwaysShownStates
       - - 13
@@ -1790,6 +2018,8 @@ presets:
         - 1527
         - 1534
         - 1538
+        - 1657
+        - 1972
 - - B-Scout
   - - - alwaysShownStates
       - []
@@ -1807,6 +2037,7 @@ presets:
       - - 6
         - 7
         - 8
+        - 9
         - 10
         - 15
         - 25
@@ -1841,6 +2072,7 @@ presets:
         - 548
         - 659
         - 707
+        - 711
         - 830
         - 831
         - 832
@@ -1879,11 +2111,18 @@ presets:
         - 1297
         - 1305
         - 1312
+        - 1316
         - 1404
+        - 1406
         - 1527
         - 1534
         - 1538
         - 1657
+        - 1704
+        - 1876
+        - 1915
+        - 1924
+        - 1972
 - - B-Brackets
   - - - alwaysShownStates
       - - 9
@@ -2396,6 +2635,41 @@ presets:
         - 1813
         - 1814
         - 1872
+        - 1876
+        - 1878
+        - 1879
+        - 1880
+        - 1882
+        - 1884
+        - 1895
+        - 1896
+        - 1904
+        - 1905
+        - 1906
+        - 1907
+        - 1908
+        - 1909
+        - 1910
+        - 1911
+        - 1915
+        - 1920
+        - 1921
+        - 1922
+        - 1923
+        - 1924
+        - 1925
+        - 1926
+        - 1927
+        - 1928
+        - 1929
+        - 1956
+        - 1972
+        - 1978
+        - 1981
+        - 1982
+        - 1991
+        - 1997
+        - 1998
 - - B-Travel
   - - - alwaysShownStates
       - - 13
@@ -2485,11 +2759,9 @@ shipLabels:
       - ship type
 stateBlinks:
 - - background_13
-  - true
-- - background_16
   - false
 - - background_44
-  - true
+  - false
 - - background_51
   - false
 - - background_52
@@ -2544,66 +2816,68 @@ stateColorsNameList:
 tabSetup:
 - - 0
   - - - bracket
-      - null
+      - B-Brackets
     - - name
       - <fontsize=12><color=0xffFF3333><b>PvP</b></color></fontsize>
     - - overview
       - B-PvP
 - - 1
   - - - bracket
-      - null
+      - B-Brackets
     - - name
       - <fontsize=12><color=0xFFFF6600><b>PVE</b></color></fontsize>
     - - overview
       - B-PvE
 - - 2
   - - - bracket
-      - null
+      - B-Brackets
     - - name
       - <fontsize=12><color=0xffFEFF6F><b>Drone</b></color></fontsize>
     - - overview
       - B-DronesOnly
 - - 3
   - - - bracket
-      - null
+      - B-Brackets
     - - name
       - <fontsize=12><color=0xffD358F7><b>Loot</b></color></fontsize>
     - - overview
       - B-Loot
 - - 4
   - - - bracket
-      - null
+      - B-Brackets
     - - name
       - <fontsize=12><color=0xff3399FF><b>Warp</b></color></fontsize>
     - - overview
       - B-WarpOut
 - - 5
   - - - bracket
-      - null
+      - B-Brackets
     - - name
       - <fontsize=12><color=0xffFA58D0><b>Scout</b></color></fontsize>
     - - overview
-      - B-DScanShipsOnly
+      - B-Scout
 - - 6
   - - - bracket
-      - null
+      - B-Brackets
     - - name
       - <fontsize=12><color=0xff66FF00><b>Friend</b></color></fontsize>
     - - overview
       - B-Friendly
 - - 7
   - - - bracket
-      - null
+      - B-Brackets
     - - name
       - <fontsize=12><color=0xffCCCCCC><b>Mining</b></color></fontsize>
     - - overview
       - B-Mining
 userSettings:
-- - applyOnlyToShips
-  - false
 - - hideCorpTicker
   - true
 - - overviewBroadcastsToTop
   - true
+- - showCategoryInTargetRange_11
+  - false
+- - showCategoryInTargetRange_6
+  - false
 - - targetCrosshair
   - false

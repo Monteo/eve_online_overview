@@ -2,7 +2,7 @@
 # Overview for EVE Online
 ##  It is mod Barkkor overview
 **[Bakkor website](http://barkkor.blogspot.nl/p/overview.html)**
-Mod based on the version **4.37**
+Mod based on the version **4.41**
 
 ### Difference in files
 - **Monteo** - main settings
