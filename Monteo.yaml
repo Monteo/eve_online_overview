@@ -2794,7 +2794,7 @@ stateColorsNameList:
 - - background_19
   - red
 - - background_44
-  - orange
+  - red
 - - background_45
   - blue
 - - background_48
@@ -2804,11 +2804,11 @@ stateColorsNameList:
 - - background_50
   - yellow
 - - background_51
-  - red
+  - yellow
 - - background_52
-  - turquoise
+  - orange
 - - background_9
-  - red
+  - yellow
 - - flag_13
   - red
 - - flag_48
@@ -2875,9 +2875,3 @@ userSettings:
   - true
 - - overviewBroadcastsToTop
   - true
-- - showCategoryInTargetRange_11
-  - false
-- - showCategoryInTargetRange_6
-  - false
-- - targetCrosshair
-  - false
