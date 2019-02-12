@@ -28,12 +28,10 @@ backgroundStates:
 - 14
 - 15
 - 16
-- 17
 - 18
 - 19
 - 44
 - 45
-- 48
 - 49
 - 50
 - 51
@@ -2788,7 +2786,7 @@ stateColorsNameList:
 - - background_16
   - blue
 - - background_17
-  - darkTurquoise
+  - white
 - - background_18
   - orange
 - - background_19
@@ -2798,7 +2796,7 @@ stateColorsNameList:
 - - background_45
   - blue
 - - background_48
-  - darkTurquoise
+  - white
 - - background_49
   - blue
 - - background_50
