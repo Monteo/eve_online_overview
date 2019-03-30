@@ -1,4 +1,7 @@
 
+
+[![Downloads] https://img.shields.io/github/downloads/Monteo/eve_online_overview/total.svg)] (https://github.com/Monteo/eve_online_overview/archive/master.zip)
+
 # Overview for EVE Online
 ##  It is mod Barkkor overview
 Mod based on the version **4.41**
