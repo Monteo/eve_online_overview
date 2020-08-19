@@ -95,6 +95,7 @@ flagStates:
 - 51
 - 52
 - 53
+- 66
 overviewColumns:
 - ALLIANCE
 - DISTANCE
@@ -1866,17 +1867,21 @@ presets:
         - 306
         - 335
         - 340
+        - 363
+        - 413
         - 448
         - 649
         - 952
         - 1004
         - 1149
         - 1207
+        - 1212
         - 1246
         - 1250
         - 1274
         - 1297
-        - 1731
+        - 1928
+        - 2009
 - - B-BracketLargeFleet
   - - - alwaysShownStates
       - - 13
@@ -1954,6 +1959,7 @@ presets:
         - 37
         - 45
         - 49
+        - 66
     - - groups
       - - 6
         - 10
@@ -1975,6 +1981,7 @@ presets:
         - 366
         - 380
         - 381
+        - 411
         - 419
         - 420
         - 463
@@ -2016,11 +2023,17 @@ presets:
         - 1276
         - 1283
         - 1305
+        - 1316
+        - 1408
         - 1527
         - 1534
         - 1538
-        - 1657
+        - 1924
         - 1972
+        - 1981
+        - 1991
+        - 2001
+        - 2020
 - - B-Scout
   - - - alwaysShownStates
       - []
@@ -2817,56 +2830,72 @@ stateColorsNameList:
 tabSetup:
 - - 0
   - - - bracket
-      - B-Brackets
+      - null
+    - - color
+      - null
     - - name
       - <fontsize=12><color=0xffFF3333><b>PvP</b></color></fontsize>
     - - overview
       - B-PvP
 - - 1
   - - - bracket
-      - B-Brackets
+      - null
+    - - color
+      - null
     - - name
       - <fontsize=12><color=0xFFFF6600><b>PVE</b></color></fontsize>
     - - overview
       - B-PvE
 - - 2
   - - - bracket
-      - B-Brackets
+      - null
+    - - color
+      - null
     - - name
       - <fontsize=12><color=0xffFEFF6F><b>Drone</b></color></fontsize>
     - - overview
       - B-DronesOnly
 - - 3
   - - - bracket
-      - B-Brackets
+      - null
+    - - color
+      - null
     - - name
       - <fontsize=12><color=0xffD358F7><b>Loot</b></color></fontsize>
     - - overview
       - B-Loot
 - - 4
   - - - bracket
-      - B-Brackets
+      - null
+    - - color
+      - null
     - - name
       - <fontsize=12><color=0xff3399FF><b>Warp</b></color></fontsize>
     - - overview
       - B-WarpOut
 - - 5
   - - - bracket
-      - B-Brackets
+      - null
+    - - color
+      - null
     - - name
       - <fontsize=12><color=0xffFA58D0><b>Scout</b></color></fontsize>
     - - overview
       - B-Scout
 - - 6
   - - - bracket
-      - B-Brackets
+      - null
+    - - color
+      - null
     - - name
       - <fontsize=12><color=0xff66FF00><b>Friend</b></color></fontsize>
     - - overview
       - B-Friendly
 - - 7
   - - - bracket
-      - B-Brackets
+      - null
+    - - color
+      - null
     - - name
       - <fontsize=12><color=0xffCCCCCC><b>Mining</b></color></fontsize>
     - - overview
