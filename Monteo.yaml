@@ -20,6 +20,7 @@ backgroundOrder:
 - 53
 - 21
 - 10
+- 66
 backgroundStates:
 - 9
 - 11
@@ -73,6 +74,7 @@ flagOrder:
 - 53
 - 48
 - 49
+- 66
 flagStates:
 - 9
 - 11
@@ -2871,6 +2873,4 @@ tabSetup:
       - B-Mining
 userSettings:
 - - hideCorpTicker
-  - true
-- - overviewBroadcastsToTop
   - true
