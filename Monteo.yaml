@@ -285,8 +285,10 @@ presets:
         - 1005
         - 1012
         - 1022
+        - 1025
         - 1081
         - 1082
+        - 1106
         - 1149
         - 1201
         - 1202
@@ -304,22 +306,30 @@ presets:
         - 1297
         - 1305
         - 1312
+        - 1316
         - 1404
         - 1405
         - 1406
         - 1407
+        - 1408
         - 1409
         - 1410
         - 1527
         - 1534
         - 1538
+        - 1548
         - 1657
         - 1876
         - 1924
         - 1972
         - 1978
         - 1998
-- - B-Mining
+        - 2001
+        - 2005
+        - 2015
+        - 2016
+        - 2017
+- - B-Industry-Mining
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -775,7 +785,7 @@ presets:
         - 4036
         - 4037
         - 4053
-- - B-PI
+- - B-Industry-PI
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -830,7 +840,6 @@ presets:
         - 420
         - 435
         - 445
-        - 446
         - 448
         - 463
         - 479
@@ -1087,6 +1096,8 @@ presets:
         - 1310
         - 1316
         - 1402
+        - 1404
+        - 1406
         - 1411
         - 1412
         - 1413
@@ -1181,7 +1192,17 @@ presets:
         - 1927
         - 1928
         - 1929
+        - 1956
         - 1972
+        - 1982
+        - 1997
+        - 2001
+        - 2009
+        - 4028
+        - 4034
+        - 4035
+        - 4036
+        - 4037
 - - B-BracketLF
   - - - alwaysShownStates
       - - 13
@@ -1244,7 +1265,7 @@ presets:
         - 1534
         - 1538
         - 1972
-- - B-Friendly
+- - B-Combat-Friendly
   - - - alwaysShownStates
       - - 11
         - 12
@@ -1310,7 +1331,7 @@ presets:
         - 1972
         - 2001
         - 2020
-- - B-WarpOut
+- - B-Combat-WarpOut
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -1348,7 +1369,7 @@ presets:
         - 2016
         - 2017
         - 2020
-- - B-PvE
+- - B-Combat-PVE
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -1365,12 +1386,11 @@ presets:
     - - groups
       - - 6
         - 10
+        - 12
         - 15
         - 97
-        - 99
         - 180
         - 185
-        - 186
         - 279
         - 286
         - 287
@@ -1379,16 +1399,16 @@ presets:
         - 299
         - 306
         - 310
-        - 319
         - 335
         - 336
         - 337
+        - 340
         - 361
         - 366
         - 383
         - 435
         - 445
-        - 446
+        - 448
         - 494
         - 495
         - 496
@@ -1460,6 +1480,7 @@ presets:
         - 631
         - 632
         - 633
+        - 649
         - 665
         - 666
         - 667
@@ -1632,6 +1653,9 @@ presets:
         - 1310
         - 1312
         - 1402
+        - 1404
+        - 1406
+        - 1408
         - 1411
         - 1412
         - 1413
@@ -1706,6 +1730,7 @@ presets:
         - 1813
         - 1814
         - 1872
+        - 1876
         - 1878
         - 1879
         - 1880
@@ -1718,6 +1743,7 @@ presets:
         - 1908
         - 1909
         - 1910
+        - 1924
         - 1925
         - 1926
         - 1927
@@ -1728,7 +1754,15 @@ presets:
         - 1982
         - 1991
         - 1997
-- - B-DronesOnly
+        - 2009
+        - 2020
+        - 4028
+        - 4034
+        - 4035
+        - 4036
+        - 4037
+        - 4053
+- - B-Combat-Drones
   - - - alwaysShownStates
       - - 13
         - 44
@@ -1758,7 +1792,7 @@ presets:
         - 1537
         - 1652
         - 1653
-- - B-DScanShipsOnly
+- - B-DScan-ShipsOnly
   - - - alwaysShownStates
       - - 13
         - 44
@@ -1821,6 +1855,7 @@ presets:
         - 1534
         - 1538
         - 1972
+        - 2001
 - - B-DScanShipsAndProbes
   - - - alwaysShownStates
       - - 13
@@ -1848,7 +1883,6 @@ presets:
         - 324
         - 335
         - 358
-        - 361
         - 380
         - 381
         - 419
@@ -1887,7 +1921,8 @@ presets:
         - 1534
         - 1538
         - 1972
-- - B-Loot
+        - 2001
+- - B-Combat-Loot
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -1913,7 +1948,7 @@ presets:
         - 1297
         - 1928
         - 2009
-- - B-BracketLargeFleet
+- - B-X-BracketLargeFleet
   - - - alwaysShownStates
       - - 13
         - 44
@@ -1975,7 +2010,8 @@ presets:
         - 1534
         - 1538
         - 1972
-- - B-PvP
+        - 2001
+- - B-Combat-PvP
   - - - alwaysShownStates
       - - 13
         - 44
@@ -2065,7 +2101,7 @@ presets:
         - 1991
         - 2001
         - 2020
-- - B-Scout
+- - B-DScan-Scout
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -2181,7 +2217,7 @@ presets:
         - 2016
         - 2017
         - 2020
-- - B-Brackets
+- - B-X-BracketAll
   - - - alwaysShownStates
       - - 9
         - 10
@@ -2280,24 +2316,7 @@ presets:
         - 446
         - 448
         - 449
-        - 450
-        - 451
-        - 452
-        - 453
-        - 454
-        - 455
-        - 456
-        - 457
-        - 458
-        - 459
-        - 460
-        - 461
-        - 462
         - 463
-        - 465
-        - 467
-        - 468
-        - 469
         - 471
         - 473
         - 479
@@ -2698,7 +2717,6 @@ presets:
         - 1879
         - 1880
         - 1882
-        - 1884
         - 1895
         - 1896
         - 1904
@@ -2708,12 +2726,7 @@ presets:
         - 1908
         - 1909
         - 1910
-        - 1911
         - 1915
-        - 1920
-        - 1921
-        - 1922
-        - 1923
         - 1924
         - 1925
         - 1926
@@ -2728,7 +2741,24 @@ presets:
         - 1991
         - 1997
         - 1998
-- - B-Travel
+        - 2001
+        - 2005
+        - 2009
+        - 2015
+        - 2016
+        - 2017
+        - 2020
+        - 4028
+        - 4033
+        - 4034
+        - 4035
+        - 4036
+        - 4037
+        - 4053
+        - 4055
+        - 4070
+        - 4073
+- - B-Travel-GatesStations
   - - - alwaysShownStates
       - - 13
         - 44
@@ -2744,15 +2774,28 @@ presets:
         - 45
         - 49
     - - groups
-      - - 6
-        - 10
+      - - 10
         - 15
-        - 335
         - 366
+        - 413
+        - 707
+        - 838
+        - 897
         - 988
-        - 1004
-        - 1149
+        - 1005
+        - 1081
+        - 1082
+        - 1276
+        - 1404
+        - 1406
+        - 1408
         - 1657
+        - 1876
+        - 1924
+        - 2015
+        - 2016
+        - 2017
+        - 2020
 shipLabelOrder:
 - ship type
 - pilot name
@@ -2874,76 +2917,76 @@ stateColorsNameList:
 tabSetup:
 - - 0
   - - - bracket
-      - null
+      - B-X-BracketAll
     - - color
       - null
     - - name
       - <fontsize=12><color=0xffFF3333><b>PvP</b></color></fontsize>
     - - overview
-      - B-PvP
+      - B-Combat-PvP
 - - 1
   - - - bracket
-      - null
+      - B-X-BracketAll
     - - color
       - null
     - - name
       - <fontsize=12><color=0xFFFF6600><b>PVE</b></color></fontsize>
     - - overview
-      - B-PvE
+      - B-Combat-PVE
 - - 2
   - - - bracket
-      - null
+      - B-X-BracketAll
     - - color
       - null
     - - name
       - <fontsize=12><color=0xffFEFF6F><b>Drone</b></color></fontsize>
     - - overview
-      - B-DronesOnly
+      - B-Combat-Drones
 - - 3
   - - - bracket
-      - null
+      - B-X-BracketAll
     - - color
       - null
     - - name
       - <fontsize=12><color=0xffD358F7><b>Loot</b></color></fontsize>
     - - overview
-      - B-Loot
+      - B-Combat-Loot
 - - 4
   - - - bracket
-      - null
+      - B-X-BracketAll
     - - color
       - null
     - - name
       - <fontsize=12><color=0xff3399FF><b>Warp</b></color></fontsize>
     - - overview
-      - B-WarpOut
+      - B-Combat-WarpOut
 - - 5
   - - - bracket
-      - null
+      - B-X-BracketAll
     - - color
       - null
     - - name
       - <fontsize=12><color=0xffFA58D0><b>Scout</b></color></fontsize>
     - - overview
-      - B-Scout
+      - B-DScan-Scout
 - - 6
   - - - bracket
-      - null
+      - B-X-BracketAll
     - - color
       - null
     - - name
       - <fontsize=12><color=0xff66FF00><b>Friend</b></color></fontsize>
     - - overview
-      - B-Friendly
+      - B-Combat-Friendly
 - - 7
   - - - bracket
-      - null
+      - B-X-BracketAll
     - - color
       - null
     - - name
       - <fontsize=12><color=0xffCCCCCC><b>Mining</b></color></fontsize>
     - - overview
-      - B-Mining
+      - B-Industry-Mining
 userSettings:
 - - hideCorpTicker
   - true
